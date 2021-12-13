@@ -1,0 +1,123 @@
+{"userList": [
+  {
+    "id": 1,
+    "firstName": "Juan Camilo",
+    "lastName": "Cardona Calderón",
+    "age": 22,
+    "nationality": {
+      "name": "Colombia",
+      "code": "co",
+      "flagUrl": "https://flagcdn.com/w160/co.png"
+    },
+    "phoneNumber": {
+      "prefix": "(+57)",
+      "number": "31223454546"
+    },
+    "address": {
+      "streetAddress": "Carrera 14 #45-53",
+      "city": "Medellín",
+      "postalCode": "055010",
+      "country": "Colombia"
+    }
+  },{
+  "id": 2,
+  "firstName": "Dario Andres",
+  "lastName": "Molina Bedoya",
+  "age": 45,
+  "nationality": {
+    "name": "México",
+    "code": "mx",
+    "flagUrl": "https://flagcdn.com/w160/mx.png"
+  },
+  "phoneNumber": {
+    "prefix": "(+52)",
+    "number": "32343546555"
+  },
+  "address": {
+    "streetAddress": "Avenida 23C # 56-11",
+    "city": "Santiago de Chile",
+    "postalCode": "1030000",
+    "country": "Chile"
+  }
+},{
+  "id": 3,
+  "firstName": "Andres",
+  "lastName": "Rodriguez Marín",
+  "age": 12,
+  "nationality": {
+    "name": "Argentina",
+    "code": "ar",
+    "flagUrl": "https://flagcdn.com/w160/ar.png"
+  },
+  "phoneNumber": {
+    "prefix": "(+54)",
+    "number": "3101224333"
+  },
+  "address": {
+    "streetAddress": "Autopista norte # 3-23",
+    "city": "Medellín",
+    "postalCode": "050001",
+    "country": "Colombia"
+  }
+},{
+  "id": 3,
+  "firstName": "Joseph",
+  "lastName": "Watson",
+  "age": 30,
+  "nationality": {
+    "name": "Bolivia",
+    "code": "bol",
+    "flagUrl": "https://flagcdn.com/w160/bol.png"
+  },
+  "phoneNumber": {
+    "prefix": "(+591)",
+    "number": "534654374456"
+  },
+  "address": {
+    "streetAddress": "Calle 12 #153-26",
+    "city": "Cochabamba",
+    "postalCode": "06651",
+    "country": "Bolivia"
+  }
+},{
+  "id": 4,
+  "firstName": "Leonardo Andres",
+  "lastName": "Marin Ortega",
+  "age": 50,
+  "nationality": {
+    "name": "Colombia",
+    "code": "co",
+    "flagUrl": "https://flagcdn.com/w160/co.png"
+  },
+  "phoneNumber": {
+    "prefix": "(+53)",
+    "number": "312233331"
+  },
+  "address": {
+    "streetAddress": "Avenida 10 # 20-22",
+    "city": "Santa Clara",
+    "postalCode": "50100",
+    "country": "Cuba"
+  }
+},{
+  "id": 5,
+  "firstName": "Ana Maria",
+  "lastName": "Ochoa Ochoa",
+  "age": 29,
+  "nationality": {
+    "name": "Ecuador",
+    "code": "ecu",
+    "flagUrl": "https://flagcdn.com/w160/ecu.png"
+  },
+  "phoneNumber": {
+    "prefix": "(+593)",
+    "number": "6676554877"
+  },
+  "address": {
+    "streetAddress": "Calle 45 # 20-22",
+    "city": "Caracas",
+    "postalCode": "1162",
+    "country": "Venezuela"
+  }
+}
+]}
